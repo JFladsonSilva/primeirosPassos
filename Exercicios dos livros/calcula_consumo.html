@@ -1,0 +1,36 @@
+<meta charset="UTF-8">
+<h3>Álcool ou Gasolina?</h3>
+<script>
+	//teste defunção inicio;
+	var mostra = function(puladora) {
+		document.write(puladora + "<br>");
+	}
+	//teste de função final;
+	var litros = 40
+		
+	var distanciaPercorrida = 480
+	var consumoDeGasolina = distanciaPercorrida / litros
+	document.write("O consumo com a gasolina foi de " + consumoDeGasolina + " KM por litro" + "<br>")
+	var distanciaComAlcool = 300
+	var consumoDeAlcool = distanciaComAlcool / litros
+	document.write("O consumo com o alcool foi de " + consumoDeAlcool.toFixed(2) + " KM por litro" +"<br>" )
+	//O .toFixed(1) serve para limitar a quantidade de casas decimais, o número dentro dos parênteses serva para determinar a quantidade de casas decimais.
+	var precoDaGasolina = 2.90
+	var precoDoAlcool = 2.40
+	var precoPorKilometroDaGasolina = precoDaGasolina / consumoDeGasolina
+	var precoPorKilometroDoAlcool = precoDoAlcool / consumoDeAlcool
+	document.write("O preço por kilometro da gasolina ficou em " + precoPorKilometroDaGasolina.toFixed(2) )
+	//teste função;
+	mostra("e ai??")
+	//o que deu? deu certo após um tempo,tinha feito certo mas o nome "puladora ficou diferente um do outro, e esse era o erro KKKKK normal."
+	document.write("E o preço por kilometro do alcool ficou em " + precoPorKilometroDoAlcool)
+
+	//código aleatório abaixo
+	var numero = prompt("Digite um número")
+	var total = numero/2
+	if(numero & 1){
+		document.write("impar");
+	} else {
+		document.write("par")
+	}
+</script>

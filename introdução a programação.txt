@@ -1,0 +1,35 @@
+Introdução a Programação 10/04/2022
+
+O que é programação?
+
+
+
+1 pargf A programação está ficando cada vez mais presente no cotidiano.
+
+2 pargf A programaçao surgiu com o computador, maquina que realizava funçoes pre estabelecidas, existem diversas linguagens que realizam processos diversos
+
+3 pargrf  Nós vivemos em um mundo que dependem de máquinas, e as maquinas depedem de nós para serem programadas, necessita de instruçoes
+
+Possibilidades:
+
+
+1 pargr nossa vida está ligada está ligada as soluçoes tecnologicas como sites,aplicativos diversos
+
+2 paragrf Além de apps e sites, estamos diretamente ligados a internet das coisas (loT) como Acessórios inteligentes 
+
+3 paragrf os Os smartwatches relógio são lot, há um sistema operacional que se conecta no celular.
+
+
+Algoritmo:
+
+1 e 2 paragrf é um conjunto de instruções que tem como
+objetivo resolver um problema ou realizar uma ação. 
+
+
+Linguagens de Programação: 
+
+
+1 paragrf Existem dois níveis de linguagens:​ as de alto nível    Javascript, PHP, Java, Cobol e Python.As linguagens de alto nível são mais próximas da linguagem humana facilitando o nosso entendimento do código e por isso são mais abstratas e as de baixo nível.​Assembly e Código de Máquina. (linguagem binária) apresentam uma
+similaridade maior com a linguagem do computador, sendo menos abstrata.
+
+2 paragrf para entendermos programação não precisamos saber todos os mecanismos ou portas lógicas e binarias átraves do seu funcionamento 

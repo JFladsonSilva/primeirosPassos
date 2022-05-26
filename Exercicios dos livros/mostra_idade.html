@@ -1,0 +1,31 @@
+<script>
+	//este código será para aprender sobre function;
+
+	//variáveis que são passadas para funções são frequentemente chamadas de "parâmetros" ou "argumentos";
+	//teste;
+	var pulaLinha = function() {
+		document.write("<br><hr><br>");
+	};
+	//Podemos mudar a função para que ela se aproveite da função "pulaLinha" que já foi criada acima;
+	var mostra = function(frase){
+		document.write("<big>"+frase+"</big>");
+		pulaLinha();
+	}
+	//teste;
+	//acima é minha primeira função criada, observe bem para aprender, o uso de funções será muito útil no decorrer do aprendizado;
+	document.write("Vou aprender a programar em 2 meses");
+	pulaLinha();
+	mostra("Essa frase significa a função que criei.")
+	// Uma função pode chamar outra função.
+	document.write("Porque eu sou fodão");
+	//Código PARTE 2;
+	document.write("<br><br><br>")
+	var ano = 2022
+	mostra("Eu nasci em: "+ (ano - 20))
+	pulaLinha()
+	mostra("Lilian nasceu em: "+ (ano - 19))
+	mostra("Fabrício nasceu em: "+ (ano - 17))
+</script>
+
+
+	
